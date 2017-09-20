@@ -1,1 +1,4 @@
 .idea/
+*.pkl
+data/
+__pycache__/
